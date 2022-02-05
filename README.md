@@ -1,3 +1,3 @@
 react-redux-typescript
 
-Основан на обучающем проекте от UniTV
+Основан на обучающем проекте от UlbiTV
